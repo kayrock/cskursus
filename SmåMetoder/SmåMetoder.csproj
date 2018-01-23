@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3BCDF583-6454-4016-B24E-9AD481CFFA94}</ProjectGuid>
+    <ProjectGuid>{52932F8E-C7FF-446A-844E-4E16D443DEE1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Loops</RootNamespace>
-    <AssemblyName>Loops</AssemblyName>
+    <RootNamespace>SmåMetoder</RootNamespace>
+    <AssemblyName>SmåMetoder</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Metoder.cs" />
+    <Compile Include="SmåMetoder.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

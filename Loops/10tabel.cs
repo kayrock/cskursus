@@ -34,8 +34,7 @@ namespace Loops
             }
 
 
-            // class metoder
-
+            
 
 
 
