@@ -59,7 +59,7 @@ namespace Module06_IntroOOP
 
             public Person()
             {
-                this.Fornavn = "";
+                 this.Fornavn = "";
 
                 this.Efternavn = "";
 

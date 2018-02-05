@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2020
+VisualStudioVersion = 15.0.27130.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module01_CS", "Module01_CS\Module01_CS.csproj", "{ED61EF61-2518-4358-9274-AF90546F16DC}"
 EndProject
@@ -46,6 +46,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmåMetoder", "SmåMetoder\SmåMetoder.csproj", "{52932F8E-C7FF-446A-844E-4E16D443DEE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{4BD13D6B-7C8A-425E-8117-992FB7245151}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatsy", "Yatsy\Yatsy.csproj", "{209F7807-5E42-47D3-BFDD-E7FD54FAE339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{9FB93C18-3A65-4D34-8659-89352B1D8BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant", "Trekant\Trekant.csproj", "{3351E4DD-130D-4118-A6B7-C1969E1B3278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArealBeregninger", "ArealBeregninger\ArealBeregninger.csproj", "{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -133,6 +141,22 @@ Global
 		{4BD13D6B-7C8A-425E-8117-992FB7245151}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BD13D6B-7C8A-425E-8117-992FB7245151}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BD13D6B-7C8A-425E-8117-992FB7245151}.Release|Any CPU.Build.0 = Release|Any CPU
+		{209F7807-5E42-47D3-BFDD-E7FD54FAE339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{209F7807-5E42-47D3-BFDD-E7FD54FAE339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{209F7807-5E42-47D3-BFDD-E7FD54FAE339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{209F7807-5E42-47D3-BFDD-E7FD54FAE339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FB93C18-3A65-4D34-8659-89352B1D8BF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FB93C18-3A65-4D34-8659-89352B1D8BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FB93C18-3A65-4D34-8659-89352B1D8BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FB93C18-3A65-4D34-8659-89352B1D8BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3351E4DD-130D-4118-A6B7-C1969E1B3278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3351E4DD-130D-4118-A6B7-C1969E1B3278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3351E4DD-130D-4118-A6B7-C1969E1B3278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3351E4DD-130D-4118-A6B7-C1969E1B3278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
