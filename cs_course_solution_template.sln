@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant", "Trekant\Trekant.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArealBeregninger", "ArealBeregninger\ArealBeregninger.csproj", "{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meyer", "Meyer\Meyer.csproj", "{0D17BD29-791A-4415-944A-31739F70D999}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vare", "Vare\Vare.csproj", "{014CDDED-1435-4DD0-9CE2-3D266D0791FE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -157,6 +161,14 @@ Global
 		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A534A06-0679-4CA0-BD2C-9B3430EF14B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D17BD29-791A-4415-944A-31739F70D999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D17BD29-791A-4415-944A-31739F70D999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D17BD29-791A-4415-944A-31739F70D999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D17BD29-791A-4415-944A-31739F70D999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{014CDDED-1435-4DD0-9CE2-3D266D0791FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014CDDED-1435-4DD0-9CE2-3D266D0791FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014CDDED-1435-4DD0-9CE2-3D266D0791FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014CDDED-1435-4DD0-9CE2-3D266D0791FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
